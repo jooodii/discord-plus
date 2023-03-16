@@ -18,3 +18,5 @@ The variables in the theme file allow you to change many things, including but n
 * Overall spacing
 
 If customizing the theme is difficult, [my Discord server](https://discord.gg/invite/2Jwh2nS) has a detailed FAQ with answers to common questions! If that still doesn't solve your problem, someone may volunteer to help you in the #get-help channel.
+
+as
